@@ -1,1 +1,2 @@
 iniciamos archivo txt
+hemos añadido una nueva linea
